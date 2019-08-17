@@ -6,12 +6,5 @@ Will require users to be near a dining common. The whole point is to make it as 
 
 Needs to authenticate with a genuine UMass email.
 
-
-Main questions so far are:
-  - Which language to use?
-  - Which framework with that language?
-  
-  -How will I organize users?
-  -What platforms do I want this on?
-  -UI????? What are these screens looking like?
-  -verify users through faces? How do you store that data? 
+Notes:
+Still a concept more than a formed idea. There is also a Facebook group dedicated to this; perhaps interaction with them would help?
